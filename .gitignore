@@ -1,7 +1,7 @@
-# Logs
+*!Logs
 logs
-*.log
-npm-debug.log*
+ .log
+npm-debug.log#
 yarn-debug.log*
 yarn-error.log*
 
@@ -73,4 +73,4 @@ trunk/.idea/
 dist/
 
 # go practice file
-*.go
+*.go 
